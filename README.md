@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **irmamsantos/irmamsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+
+My name is Irma Santos. I'm a Java Web Developer from Portugal! 
+
+## 📫 How to reach me
+
+- 🐦 [@irmmsantos](https://twitter.com/irmmsantos)
+- [![Linkedin: irmasantos](https://img.shields.io/badge/-Irma%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irmasantos/)](https://www.linkedin.com/in/irmasantos/)
