@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 My name is Irma Santos. I'm a Java Web Developer from Portugal! 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irmamsantos)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 📫 How to reach me
 
 - 🐦 [@irmmsantos](https://twitter.com/irmmsantos)
